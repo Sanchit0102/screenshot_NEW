@@ -2,7 +2,7 @@
 
 > Telegram Bot For Screenshot Generation.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matrixbotz0/screenshot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.comSanchit0102/screenshot_NEW)
 
 ## Description
 
